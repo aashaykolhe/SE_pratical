@@ -1,11 +1,4 @@
 
-/* 
-
-Author: Alia Ibrahim Bandarkar
-
-
-
-*/
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
